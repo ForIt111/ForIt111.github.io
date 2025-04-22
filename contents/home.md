@@ -65,16 +65,18 @@ GPA  4.265/5.0 | 绩点排名 8/191<br>
 <img src='../img/3.jpg' width='800'>
 <img src='../img/4.jpg' width='800'>
 
-<!-- 比赛 -->
-比赛获奖证书<br>
-<img src='../img/4.jpg' width='800'>
-<img src='../img/5.jpg' width='800'>
-<img src='../img/6.jpg' width='800'>
+
 <!-- 荣誉称号 -->
 荣誉称号证书<br>
-<img src='../img/8.jpg' width='800'>
+<img src='../img/8.png' width='800'>
 <img src='../img/9.jpg' width='800'>
 <img src='../img/10.jpg' width='800'>
 <img src='../img/11.jpg' width='800'>
 <img src='../img/12.jpg' width='800'>
 <img src='../img/14.jpg' width='800'>
+
+<!-- 比赛 -->
+比赛获奖证书<br>
+<img src='../img/4.jpg' width='800'>
+<img src='../img/5.jpg' width='800'>
+<img src='../img/6.jpg' width='800'>
