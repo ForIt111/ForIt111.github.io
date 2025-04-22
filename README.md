@@ -45,7 +45,7 @@ The directory structure is as follows:
     └── js
 ```
 
-(2) Modify the content of each section, which corresponds to `contents/*.md`.
+(2) Modify the content of each one, which corresponds to `contents/*.md`.
 
 (3) Adjust the title, copyright information, and other text of the website in `contents/config.yml`
 
